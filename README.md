@@ -1,5 +1,7 @@
 # mugshots
 
+For this project I used the [mugshots](https://www.nist.gov/srd/nist-special-database-18) dataset from the National Institute of Standards and Technology (NIST).
+
 
 ![generated mugshot](images/demo_profile.jpg)
 
