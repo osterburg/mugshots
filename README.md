@@ -10,7 +10,7 @@
 
 The following papers are used for reference:
 
-|----------------|----------------------------------|
+| :------------: | :------------------------------: |
 | Image-to-Image | https://arxiv.org/abs/1611.07004 |
 | U-Net          | https://arxiv.org/abs/1505.04597 |
 | Noise2Noise    | https://arxiv.org/abs/1803.04189 |
