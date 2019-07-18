@@ -8,6 +8,8 @@
 
 # mugshots
 
+NOTE: currently, only the tf_mushot notebook works.
+
 The following papers are used for reference:
 
 * [Image-to-Image](https://arxiv.org/abs/1611.07004)
